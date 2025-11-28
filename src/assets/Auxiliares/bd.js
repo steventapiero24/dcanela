@@ -1,0 +1,18 @@
+export const Categorias = [
+    { nombre: "Magdalenas",
+      descripcion: "Nuestra especialidad. El producto más apreciado por los clientes de D’canela. Integrales, de manzana o con pepitas de chocolate",
+      imageUrl: "../src/assets/images/magdalenas.png",
+    },
+    { nombre: "Tartas",
+      descripcion: "Tartas de selva negra, bombón, sacher… y una gran variedad de tartas semifrías de chocolate, oreo, limón o arroz con leche",
+      imageUrl: "../src/assets/images/tartas.png",
+    },
+    { nombre: "Pastas de té",
+      descripcion: "Estas deliciosas galletas tienen su origen en Inglaterra. La mantequilla y el toque de vainilla les dan un sabor exquisito",
+      imageUrl: "../src/assets/images/galletas.png",
+    },
+    { nombre: "Rosquillas",
+      descripcion: "Nuestras rosquillas de anís las puedes probar durante todo el año pero en mayo llegan las auténticas rosquillas de San Isidro. Tontas, listas y de Santa Clara.",
+      imageUrl: "../src/assets/images/rosquillas.png",
+    },
+]
