@@ -1,0 +1,16 @@
+.container__nosotros {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    gap: 2rem;
+}
+.container__nosotros-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 0 3rem;
+    img {
+        height: 100vh;
+    }
+}
